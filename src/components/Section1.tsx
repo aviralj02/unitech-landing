@@ -18,7 +18,7 @@ const Section1 = (props: Props) => {
           Initiating your business evolution with unitech
         </h3>
         <p className="text-[#333]">
-          It's the catalyst for the evolution of your business. Seamlessly
+          It&apos;s the catalyst for the evolution of your business. Seamlessly
           integrate groundbreaking solutions that lay the foundation for your
           upward trajectory.
         </p>

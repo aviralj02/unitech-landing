@@ -19,7 +19,7 @@ const Integrations = (props: Props) => {
     <div className="integrations pt-[170px] pb-[155px] flex flex-col items-center text-center px-4 gap-24 mb-40">
       <div className="flex flex-col gap-4 items-center">
         <h3 className="text-white text-3xl">
-          Integrating Your Workflow with Unitech's
+          Integrating Your Workflow with Unitech&apos;s
         </h3>
         <p className="text-white text-base max-w-[65%]">
           In the dynamic landscape of business operations, the key to unlocking
